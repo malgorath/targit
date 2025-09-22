@@ -56,8 +56,12 @@ coverage.xml
 *.swp
 *.swo
 
+
 # Output archive itself
 my_project_archive.tar.gz
+
+# Git directory
+.git/
 
 # Logs and temp files
 *.log
